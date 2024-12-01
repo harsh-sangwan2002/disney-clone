@@ -10,11 +10,9 @@ Check out the live demo of this app [here](https://disney-clone-b7200.web.app/).
 
 ## Description
 
-- Designed a full-stack Disney+ Clone, improving load speed by 40% and achieving a 0.01 CLS score for enhanced user experience.
-
-- Crafted an engaging and responsive user interface using React and Redux, enhancing the movie trailer viewing experience.
-
-- Integrated Firebase for authentication, real-time database, and hosting, ensuring seamless and secure user interactions.
+- Engineered a full-stack web application with Firebase authentication, managing profiles & ensuring seamless streaming and enhanced user experience.
+- Developed UI interfaces integrated with Firebase for secure user authentication and real-time database functionality, reducing load time by 40% with code-splitting and lazy-loading, and achieving a 0.01 CLS score.
+- Implemented security measures against vulnerabilities like XSS, CSRF, and SQL injection.
 
 ## Technologies Used
 
